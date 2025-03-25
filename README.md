@@ -3,7 +3,7 @@ Bu proje, Git ve GitHub kullanımı üzerine bir çalışmadır.
 
 ## 📁 Klasör Yapısı  
 - `img/` → README.md’de kullanılan görseller  
-- `tests/` → Test dosyaları (başlangıçta boş)  
+- `tests/` → Test dosyaları  
 - `coordinates.csv` → Veri dosyası  
 - `point.py` → Python kodları  
 
