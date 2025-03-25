@@ -25,3 +25,6 @@ Her büyük değişiklikten sonra commit yaptım.
 
 ##  AI Kullanımı  
 ChatGPT’ye şu soruyu sordum: "Push yaparken main ve master hatasını nasıl çözebilirim ?"  
+
+
+![]() 
